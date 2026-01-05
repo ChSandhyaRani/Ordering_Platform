@@ -1,0 +1,17 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.16.0"
+  },
+  "scripts": {
+    "start": "npx vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^7.3.0"
+  }
+}
