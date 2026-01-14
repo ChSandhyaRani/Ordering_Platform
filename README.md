@@ -10,7 +10,7 @@ Built with **React.js** for the frontend, **Node.js + Express** for the backend,
 - **Frontend:** React.js, Vite
 - **Backend:** Node.js, Express.js
 - **Database:** SQLite
-- **Hosting:** Frontend (Vercel / Netlify), Backend (Render)
+- **Hosting:** Frontend (Vercel / Netlify)
 - **Styling:** CSS (Responsive & modern card layout)
 
 ---
